@@ -6,57 +6,36 @@
 
 * 性 别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;年 龄：21
 * 手 机：18076408932 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;  邮 箱：18076408932@163.com
-* 专 业：数字媒体技术 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 目标岗位：研发工程师
+* 专 业：数字媒体技术 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &ensp;学 历：本科
 
-## 工作及教育经历
+## 教育经历
 
-* 前公司&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2019.8~至今&emsp;&emsp;&emsp;&emsp;&emsp; 事业群名字-部门名字
-* XXXX大学&emsp;&emsp;&emsp;&emsp;&emsp;2017.9~2019.7&emsp;&emsp;&emsp;&emsp; 计算机科学与技术专业-研究生
-* XXXX大学&emsp;&emsp;&emsp;&emsp;&emsp;2013.9~2017.7&emsp;&emsp;&emsp;&emsp; 计算机科学与技术专业-本科
+* 桂林航天工业学院&emsp;&emsp;&emsp;&emsp;&emsp;2021.9至今&emsp;&emsp;&emsp;&emsp; 数字媒体技术-本科
 
 ## 专业技能
 
-* 熟练使用 C++，掌握Go，了解 Java、Python、PHP 等编程语言
-* 掌握基础数据结构和算法的基本原理
-* 等等
+* 熟练使用C#，熟悉面向对象编程思想
+* 掌握协程，接口，委托与事件
+* 熟悉常用的数据结构和算法设计
+* 熟练使用Unity编辑器和常用组件，熟悉UGUI
+* 了解寻路组件（NavMesh）的使用，熟悉A*算法，了解常见的几种寻路算法
+* 熟悉Unity程序基础框架（单例模式，对象池，对象检索，资源加载，文件读写，场景切换）
+* 熟练使用有限状态机实现AI
+* 熟悉数据持久化流程（Json实现）
+* 熟悉新版输入系统（Input System）
+* 熟练使用射线系统
+* 熟练使用UnityEditor实现编辑器扩展
 
 ## 项目经历
 
-1. 公司/学校 - XXweb服务器 - 独立开发 - 201508- 201512
-    * 具体功能
-    * 运用了那些技术，技术难点是
-    * 效果如何
+1. 项目名称：空战
+    * 项目背景：SLG游戏开发
+    * 核心玩法：弹幕射击游戏，类东方Project，玩家需要操作角色躲避敌人的弹幕攻击，同时发射自己的弹幕击败敌人
+    * 核心技术点：UGUI，Input System，DoTween插件，有限状态机，资源加载，数据持久化，单例模式，模块化设计
+    * 核心模块：角色控制模块，敌人控制模块，BOSS控制模块，UI管理模块，游戏管理模块，UnityEditor模块
+    * 
     * demo演示地址，github地址
-
-2. 公司/学校 - XX游戏 - 负责后端开发 - 201309- 201401
-    * 具体功能
-    * 运用了那些技术，技术难点是
-    * 效果如何
-    * demo演示地址，github地址
-
-## 获奖经历
-* XXX 优秀新人
-* XXX 学生社团优秀干部
-* 竞赛 XXX 奖
 
 ## 个人账号
 * blog 地址 (附加自己博客特色，写了哪些技术文章)
 * github 地址 (附加自己github特色，突出的项目)
-
-## 其他信息
-* 喜欢钻研技术 等等
-* 性格开朗，喜欢跳舞，做个主持人 等等
-
-## Word版领取方式
-
-**Word版本的简历，添加代码随想录企业微信，通过之后就会发你word版本**。
-
-<div align="center"><img src="https://code-thinking-1253855093.file.myqcloud.com/pics/20240328164645.png" data-img="1" width="200" height="200"></img></div>
-
-如果已经有代码随想录企业微信，直接回复：简历模板，就可以了。
-
-## 总结
-
-**好的简历是敲门砖，同时也不要在简历上花费过多的精力，好的简历以及面试技巧都是锦上添花**，真的求得心得的offer靠的还是真才实学。
-
-
